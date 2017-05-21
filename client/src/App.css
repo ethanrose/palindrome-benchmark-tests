@@ -1,0 +1,13 @@
+pre {
+    overflow-x: auto;
+}
+
+pre code {
+    word-wrap: normal;
+    white-space: pre;
+}
+
+#log {
+  max-height: 60vh;
+  overflow-y: auto;
+}
